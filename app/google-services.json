@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418353999587",
+    "project_id": "uber-540a7",
+    "storage_bucket": "uber-540a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418353999587:android:7de5b06d913ee920c61fd6",
+        "android_client_info": {
+          "package_name": "douglasghiraldello.cursoandroid.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418353999587-enp4mm6kvltiug1ft6e1pbmgkrk560g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4tdb_n8txliqHBpFOvldnpUGJoCtcL4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418353999587-enp4mm6kvltiug1ft6e1pbmgkrk560g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

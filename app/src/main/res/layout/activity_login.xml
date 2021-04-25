@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="26dp"
+    tools:context=".activity.LoginActivity">
+
+    <EditText
+        android:id="@+id/editEmailLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:ems="10"
+        android:hint="E-mail"
+        android:inputType="textWebEmailAddress" />
+
+    <EditText
+        android:id="@+id/editSenhaLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:hint="Senha"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/buttonEntrarLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/azul_btn_entrar"
+        android:onClick="validarLoginUsuario"
+        android:text="entrar"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

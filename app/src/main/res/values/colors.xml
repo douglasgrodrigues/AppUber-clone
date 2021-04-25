@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorPrimaryDark">#233238</color>
+    <color name="colorAccent">#566e7a</color>
+    <color name="azul_btn_entrar">#1FBAD6</color>
+    <color name="cinza_btn_cadastrar">#83838C</color>
+</resources>
